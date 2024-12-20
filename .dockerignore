@@ -1,0 +1,15 @@
+/.git
+/.github
+/.vscode
+/node_modules
+/tmp
+
+*env*
+.eslint*
+.git*
+.*.credentials.json
+.prettier*
+
+docker-compose.yml
+Dockerfile
+README.md
